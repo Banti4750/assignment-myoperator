@@ -1,0 +1,662 @@
+{
+  "Departments": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec3xI4BGz8OW6TDz",
+        "createdTime": "2026-08-27T16:39:09.000Z",
+        "fields": {
+          "Location": "Noida",
+          "Headcount Budget": 29,
+          "Job Openings": [
+            "rec38ScPLVzASwBYL",
+            "rec1hXVrOPLSyiC6Y",
+            "recmpkDQ1pbmq0mWx"
+          ],
+          "People": [
+            "recWgT7813zjD5bTB",
+            "recyNjT2YZqOFbyMW"
+          ],
+          "Code": "FIN",
+          "Name": "Finance"
+        }
+      },
+      {
+        "id": "recDASo0u2CmangBD",
+        "createdTime": "2026-08-27T16:39:09.000Z",
+        "fields": {
+          "Location": "Bengaluru",
+          "Headcount Budget": 17,
+          "Job Openings": [
+            "recMQPbjDBoBakTk9",
+            "rec810iCfuNrOnIYU",
+            "reczcf1vpwP842uKy"
+          ],
+          "People": [
+            "recSmhAn12okM8IqT"
+          ],
+          "Code": "PRD",
+          "Name": "Product"
+        }
+      },
+      {
+        "id": "recFqQ09yONZFSRdI",
+        "createdTime": "2026-08-27T16:39:09.000Z",
+        "fields": {
+          "Location": "Noida",
+          "Headcount Budget": 36,
+          "Job Openings": [
+            "recjRbE4mAhXi7Q6P",
+            "recolz9ocG5Wv9YGc",
+            "recGF2PfXhqx2M1QC"
+          ],
+          "People": [
+            "recYShpGj81ML92G1",
+            "rec25IaBcJAP9TN3h"
+          ],
+          "Code": "POP",
+          "Name": "People Operations"
+        }
+      }
+    ]
+  },
+  "People": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec256xpgQkRnXVwj",
+        "createdTime": "2026-08-27T16:39:09.000Z",
+        "fields": {
+          "Reqs as Recruiter": [
+            "recXjrSsLdnbn00zJ",
+            "recyPRmJP1t1CyDer",
+            "recfHWdP7FhYmzOhw",
+            "rec810iCfuNrOnIYU",
+            "recN2CRitgJbTxrMs",
+            "recGF2PfXhqx2M1QC",
+            "recDWPyPdsjzjzYEx"
+          ],
+          "Role": "Recruiter",
+          "Full Name": "Sunil Jain",
+          "Work Email": "sunil.jain@example.com",
+          "Department": [
+            "recddMO9ef7TSCLEo"
+          ],
+          "Joined On": "2021-08-20",
+          "Applications as Recruiter": [
+            "recwwFHgFJVvqXjbl",
+            "recGSUwByKNRw5ugN",
+            "recGmP6tLajPeKMGj",
+            "recPKXgzmuoBaSLui",
+            "recvrpsc9DxJc1Aem",
+            "recKWSoAgLTGK1MB1",
+            "recspd5m3Ua7jScMR",
+            "recRAyDBrdQqQOVyP",
+            "recnLNeX29cpXbGAQ",
+            "rec5dBaXOqisOsG0J",
+            "recRzgmLBhnZfiQgx",
+            "recjFFqK9KHos3R03",
+            "rec1r2xysZJTTbjhM",
+            "recCPGIfZwJpFdhnM",
+            "recHCW92od1abvBX5",
+            "recRH8DAS5RSerTzr",
+            "reccFP4j1zyMydygx",
+            "reckvX05sMDvHHmGd",
+            "rec4ll7eaOYuZhPak",
+            "rect4WxvR2TvMdhxV",
+            "recp4qmI5WoemWcKL",
+            "recUbsYKcVPEqayT9",
+            "rec7fsjA7HOFYsxUr",
+            "recfdsNqShSkDpMw7",
+            "recmpmJRqVU7AMHJ2",
+            "reclvmFsKkhQ8xGyW",
+            "recxWAKEkpJ1IL4qg",
+            "recPA80lrTW7Zbfa4",
+            "recv6eHiU4xrWC2zh",
+            "recLkeaaxIpCVp0oV",
+            "recjYDboyd1p56Gx1",
+            "recGT7c3ISkPwUCXK",
+            "recw9UmkHJe1DeHAY",
+            "rec2o2XqwHfynJUAS",
+            "recVYakzO3k2eH1q8",
+            "rec9fiFjA17ZXZmlT",
+            "rec8Lca2OO74RaGOk",
+            "recaG6zbaZR0e3cG1",
+            "rech4jLUzvzTgROFK",
+            "recXD3bchspEJMPgF",
+            "recii4XbhYCb37Hvn",
+            "recZX0JdwUU14z5kJ",
+            "recmQozSPHQsfsGLa",
+            "recYRQvQj9F8HaAxC",
+            "recpgUKDzHrCaSRdv",
+            "recFWL62cHiMjCN1w",
+            "recCi3OfSgp7XgpUP",
+            "recQp4f5XGxaRr4JX",
+            "recmp9OGqDBkzjCDx",
+            "recr1FjDoXlTNKcpl",
+            "recgpzPd3FeSLRSpw",
+            "rech159sdjSC54aSA",
+            "rec6peHh5DoungjGv",
+            "recGx1pbjZZ6qQkDI",
+            "rec42NcT9OGY8NOQC",
+            "recdU1YZ0aiKIlL0K",
+            "recyX8935MkVr7qxt",
+            "recuxyKz0iwJXR7pB",
+            "rec6M0WIvxnaajd9e",
+            "recjfFVstbeasHk24",
+            "recrExbwNJXiaDN4b",
+            "recJfZ72KW3jKtN1F",
+            "recmXb8MbeTw1s5yg",
+            "rectk8gojzZ37ZG0g",
+            "recMioqGRdCfPs4jI",
+            "rec0W4wqiME84NbOB",
+            "recpZYuX5EuNkP6KX",
+            "recALxp1paVzlSzaX",
+            "reck4USSuCcjq355n",
+            "recaTn55f9iTinexu",
+            "recnwsgD6X7kfOw6F",
+            "reckINb6DMDSmbe2Y",
+            "recBnvAesasu7ckJ8",
+            "reckCcrFYbLgERpDO",
+            "reck8WjCRyGgD71rs",
+            "recyET1rOj1gPmIkT",
+            "rec6towTNzRkmKpCB",
+            "recmxYppqpVBvVxmV",
+            "recgBIfd9Cs8a3WsD",
+            "recR1niNYMyJyqA66",
+            "recjqevDefQTd1YgU",
+            "reco35zsSjc2VUwWd",
+            "recYd9lQ2uQpvtNqo",
+            "recgQKatztTQFAtLe",
+            "recM987VNlQ0cKbu3",
+            "recEGvJIm1pJTL2sQ",
+            "recfTaOlRbflMgEDZ",
+            "recGBuBnWhJkCTNIm",
+            "recWmki3TDt0I68sB",
+            "recTv8A8ZyAHi3TAa",
+            "recaFt6waPJsgv4Ct",
+            "recWkQURRyBHR5rjj",
+            "recJApodnyMN0npnS",
+            "rec4iYmQoziFjJ9fL",
+            "reclkeeZCve9HMAWx",
+            "reckLPXA8xRgWsC1l"
+          ],
+          "Referrals Made": [
+            "recryJuaBpPNMp6I6",
+            "recY5fy2hGQT06YVz",
+            "recCBinek7jNABwCa"
+          ]
+        }
+      },
+      {
+        "id": "rec25IaBcJAP9TN3h",
+        "createdTime": "2026-08-27T16:39:10.000Z",
+        "fields": {
+          "Role": "Interviewer",
+          "Full Name": "Deepak Dubey",
+          "Work Email": "deepak.dubey@example.com",
+          "Department": [
+            "recFqQ09yONZFSRdI"
+          ],
+          "Joined On": "2023-12-09",
+          "Interviews": [
+            "recYkOt2cyPyzNxGh",
+            "recZW3WdOdZ2DwiRi",
+            "rec9V1QdYSKZTL4jE",
+            "recoHPPTIlrS6jglf",
+            "reco5Gi69GKyu1bP7",
+            "recRVHJVPfuqzdraL",
+            "reciD25s5L0504u0T",
+            "recpOyxXP2ehJFwm8",
+            "rec1kwpwPw7wBOLmV",
+            "rec6eWNBWnSVBcyG1",
+            "recW7i1NK3DssVjMi",
+            "recfXhcBRxgTZ436k",
+            "recsLOGBd6c4nded3",
+            "receT1BjObIirFEzb",
+            "recQUGOeYfZjz4zTE",
+            "recL2zdQWGVjNA0RZ",
+            "recAILRzZAdYkye5y",
+            "reco5lb794OnycxxL",
+            "recdivecL3P3z874D",
+            "recH8Jl0EnikBkY06",
+            "recRAMhy7gBahR6cD",
+            "recTD5qADIMSLF3rn",
+            "receG09OJI1bsVaY3",
+            "recRW0l7bmea10ide",
+            "recmhD0JwM8KMUlxX"
+          ],
+          "Referrals Made": [
+            "recXmd9qCH1puDGaE",
+            "rec6W1jdOjlvcdpG5",
+            "recOQKvwlqxac6vRX"
+          ]
+        }
+      },
+      {
+        "id": "rec4scgKf7PDfcfqU",
+        "createdTime": "2026-08-27T16:39:09.000Z",
+        "fields": {
+          "Role": "Interviewer",
+          "Full Name": "Arjun Kapoor",
+          "Work Email": "arjun.kapoor@example.com",
+          "Department": [
+            "recxdKcFxPXlYKCHw"
+          ],
+          "Joined On": "2023-08-19",
+          "Interviews": [
+            "recwOLmkyNUx8771C",
+            "recSdGEuTsriCZXgs",
+            "recgXEUVzEOX2YYhS",
+            "recgPL6VStZdLdCnP",
+            "recNXbAlWs1NmBBAT",
+            "recPisFoFDz06MQxK",
+            "recYXB654IcxxrH5D",
+            "recPO7rDD2RaicVGc",
+            "recA8aRHHtqhoIUF8",
+            "recbEWiROvQFH1j6g",
+            "recy59Q6h8x8e8UT5",
+            "recZyszZfQLO9Ilwm",
+            "recqzOWKa4gFqTumc",
+            "rec3ot9nNVBv0TIKh",
+            "rectmKQOu6Coab9qk",
+            "recIrprBZmYXKvoXi",
+            "rec0yYjYwNgfxH1Bg",
+            "recaRx9jLJp1CcPpn",
+            "recMUAgaQlM5vbA8a",
+            "recUCCOaylrzzduFW",
+            "recOROl49QMaytwBj",
+            "recDvwqrsOxNp84Ta",
+            "recAgYOr7M9ijPcuK"
+          ],
+          "Referrals Made": [
+            "reclvmFsKkhQ8xGyW",
+            "rec4iYmQoziFjJ9fL"
+          ]
+        }
+      }
+    ]
+  },
+  "Job Openings": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec1hXVrOPLSyiC6Y",
+        "createdTime": "2026-08-27T16:39:11.000Z",
+        "fields": {
+          "Target Close": "2025-08-10",
+          "Employment Type": "Full-time",
+          "Recruiter": [
+            "recLvBq5rkbRssvuG"
+          ],
+          "Opened On": "2025-05-20",
+          "Applications": [
+            "rec6oxWqPzJRqyVdg",
+            "recnPKdhvQjakaFXo",
+            "recIk3vpbSowGSQVI",
+            "receDhoBOhG7nhCmz",
+            "recKopXFAihwvSumv",
+            "recWIthKyUBxG1Iw2",
+            "recsXHlBWuLQDcVQC",
+            "rect8WSJg6q077Ujw",
+            "reczMtSCSFBNKrqB5",
+            "recr9pwKyMqCoD9fm",
+            "recZhULRett5ltIvH",
+            "recsf6EmTqvMtB5m9"
+          ],
+          "Salary Band Max": 1600000,
+          "Hiring Manager": [
+            "recpccWvvQSp0BPb4"
+          ],
+          "Salary Band Min": 800000,
+          "Location": "Bengaluru",
+          "Status": "Filled",
+          "Level": "Mid",
+          "Department": [
+            "rec3xI4BGz8OW6TDz"
+          ],
+          "Headcount": 1,
+          "Req ID": "REQ-2025-013",
+          "Title": "Finance Manager"
+        }
+      },
+      {
+        "id": "rec38ScPLVzASwBYL",
+        "createdTime": "2026-08-27T16:39:11.000Z",
+        "fields": {
+          "Target Close": "2025-12-06",
+          "Employment Type": "Contract",
+          "Recruiter": [
+            "recb49hLjk0PC5O5P"
+          ],
+          "Opened On": "2025-10-30",
+          "Applications": [
+            "recCdljIHamvPiU2p",
+            "recKf6QR0hCR0JH7k",
+            "recafuUSU75bcGv78",
+            "recEVH7oDto8NcjXa",
+            "recwP2FumcSYmnZP8",
+            "recwAXxaCZ1UKt60k",
+            "recCeQ8EDYbkRp312"
+          ],
+          "Salary Band Max": 3000000,
+          "Hiring Manager": [
+            "recSmhAn12okM8IqT"
+          ],
+          "Salary Band Min": 1600000,
+          "Location": "Bengaluru",
+          "Status": "Cancelled",
+          "Level": "Senior",
+          "Department": [
+            "rec3xI4BGz8OW6TDz"
+          ],
+          "Headcount": 2,
+          "Req ID": "REQ-2025-005",
+          "Title": "Financial Analyst"
+        }
+      },
+      {
+        "id": "rec5ZjMzbr1BDZscz",
+        "createdTime": "2026-08-27T16:39:11.000Z",
+        "fields": {
+          "Target Close": "2026-01-25",
+          "Employment Type": "Full-time",
+          "Recruiter": [
+            "recLvBq5rkbRssvuG"
+          ],
+          "Opened On": "2025-11-27",
+          "Applications": [
+            "recteo4spjSG5Kgwd",
+            "recQNbHZfvfDfzy1U",
+            "rec2JLvjQ4AD5wtZb",
+            "recwpRyd6IVVpmjpL",
+            "recVKZzX2XFyw8zOA",
+            "recaUIrW2aIU4QY0h",
+            "recwQvsOOtVNFtfd6",
+            "recOw5S3niDaulLoE",
+            "recceue60IpVHFgqR",
+            "rec7RSA6x0xeuO3o2",
+            "rec1ssUJMqmmaxhpZ",
+            "rec5wIXqujmTJTRDz"
+          ],
+          "Salary Band Max": 800000,
+          "Hiring Manager": [
+            "recWgT7813zjD5bTB"
+          ],
+          "Salary Band Min": 400000,
+          "Location": "Mumbai",
+          "Status": "Open",
+          "Level": "Junior",
+          "Department": [
+            "reco6QBxRfbzEuPsb"
+          ],
+          "Headcount": 2,
+          "Req ID": "REQ-2025-004",
+          "Title": "Junior Content Marketer"
+        }
+      }
+    ]
+  },
+  "Candidates": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec025p5ExyDDgMqo",
+        "createdTime": "2026-08-27T16:39:18.000Z",
+        "fields": {
+          "Full Name": "Omar Weber",
+          "Phone": "+91 9733405704",
+          "Expected CTC": 2300000,
+          "Created On": "2025-03-24",
+          "Candidate ID": "CAND-00108",
+          "Notice Period Days": 90,
+          "Current CTC": 2150000,
+          "City": "Hyderabad",
+          "Email": "omar.weber107@example.com",
+          "Current Company": "Copperfield Bank",
+          "Notes": "Strong portfolio, thin on formal experience.",
+          "Years Experience": 8.4,
+          "Source": "Agency",
+          "Applications": [
+            "recXmd9qCH1puDGaE"
+          ]
+        }
+      },
+      {
+        "id": "rec0RmkT1oaf3v2IZ",
+        "createdTime": "2026-08-27T16:39:17.000Z",
+        "fields": {
+          "Full Name": "Zoya Mishra",
+          "Phone": "+91 9375857234",
+          "Expected CTC": 1520000,
+          "Created On": "2025-07-24",
+          "Candidate ID": "CAND-00080",
+          "Notice Period Days": 90,
+          "Current CTC": 1360000,
+          "City": "Chennai",
+          "Email": "zoya.mishra79@example.com",
+          "Current Company": "Silverpine Analytics",
+          "Notes": "Currently on a notice period; flexible on start date.",
+          "Years Experience": 8,
+          "Source": "Agency",
+          "Applications": [
+            "recCg355T7dWJq5wC"
+          ]
+        }
+      },
+      {
+        "id": "rec0fsVrfn2FFP0cX",
+        "createdTime": "2026-08-27T16:39:27.000Z",
+        "fields": {
+          "Full Name": "Aarav Iyer",
+          "Phone": "+91 9596032111",
+          "Expected CTC": 670000,
+          "Created On": "2025-05-28",
+          "Candidate ID": "CAND-00258",
+          "Notice Period Days": 30,
+          "Current CTC": 600000,
+          "City": "Noida",
+          "Email": "aarav.iyer257@example.com",
+          "Current Company": "Marigold Foods",
+          "Years Experience": 1.5,
+          "Source": "LinkedIn",
+          "Applications": [
+            "recShkIbK2nW4OAU1"
+          ]
+        }
+      }
+    ]
+  },
+  "Applications": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec03mm1CQItRpbin",
+        "createdTime": "2026-08-27T16:39:43.000Z",
+        "fields": {
+          "Recruiter": [
+            "recD9kc1IOY9DF6Pn"
+          ],
+          "Applied On": "2026-06-12",
+          "Candidate": [
+            "recF8kNQraCKnPcn2"
+          ],
+          "Closed On": "2026-06-29",
+          "Rejection Reason": "Culture Fit",
+          "Application ID": "APP-00222",
+          "Screened On": "2026-06-20",
+          "Opening": [
+            "recRf0sg8Gga7o7w9"
+          ],
+          "Stage": "Rejected",
+          "Status": "Closed"
+        }
+      },
+      {
+        "id": "rec0BoZNmntCLQMr2",
+        "createdTime": "2026-08-27T16:39:48.000Z",
+        "fields": {
+          "Recruiter": [
+            "recD9kc1IOY9DF6Pn"
+          ],
+          "Applied On": "2026-06-11",
+          "Candidate": [
+            "recYBZ7f5H1rG3LzK"
+          ],
+          "Closed On": "2026-07-01",
+          "Rejection Reason": "Skills Mismatch",
+          "Application ID": "APP-00308",
+          "Screened On": "2026-06-19",
+          "Opening": [
+            "recRf0sg8Gga7o7w9"
+          ],
+          "Stage": "Rejected",
+          "Status": "Closed"
+        }
+      },
+      {
+        "id": "rec0Niixi0wuN3K1M",
+        "createdTime": "2026-08-27T16:39:46.000Z",
+        "fields": {
+          "Recruiter": [
+            "recb49hLjk0PC5O5P"
+          ],
+          "Applied On": "2026-05-21",
+          "Candidate": [
+            "recME9wyuFKIpcTSU"
+          ],
+          "Closed On": "2026-05-26",
+          "Rejection Reason": "Comp Expectation",
+          "Application ID": "APP-00287",
+          "Screened On": "2026-05-24",
+          "Opening": [
+            "recolz9ocG5Wv9YGc"
+          ],
+          "Stage": "Rejected",
+          "Status": "Closed"
+        }
+      }
+    ]
+  },
+  "Interviews": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec056WQB9R3OBalD",
+        "createdTime": "2026-08-27T16:39:58.000Z",
+        "fields": {
+          "Application": [
+            "recWSyX6zpp2z2jeU"
+          ],
+          "Scheduled On": "2026-07-30",
+          "Interview ID": "INT-00140",
+          "Interviewer": [
+            "recMQs1GOLeXg16VI"
+          ],
+          "Round": "Screen",
+          "Score": 2,
+          "Recommendation": "No Hire",
+          "Outcome": "Completed",
+          "Feedback": "Missed the main edge case and did not test the solution.",
+          "Completed On": "2026-07-30"
+        }
+      },
+      {
+        "id": "rec07mjPeN9h2vpHU",
+        "createdTime": "2026-08-27T16:39:54.000Z",
+        "fields": {
+          "Application": [
+            "recsaQK77orZxyElt"
+          ],
+          "Scheduled On": "2026-07-16",
+          "Interview ID": "INT-00063",
+          "Interviewer": [
+            "recR0E2DVCw6F0ovN"
+          ],
+          "Round": "Technical 1",
+          "Score": 1,
+          "Recommendation": "Strong No Hire",
+          "Outcome": "Completed",
+          "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+          "Completed On": "2026-07-16"
+        }
+      },
+      {
+        "id": "rec0sok5dEvDk8RXw",
+        "createdTime": "2026-08-27T16:39:56.000Z",
+        "fields": {
+          "Application": [
+            "rec6M0WIvxnaajd9e"
+          ],
+          "Scheduled On": "2026-03-31",
+          "Interview ID": "INT-00087",
+          "Interviewer": [
+            "recR0E2DVCw6F0ovN"
+          ],
+          "Round": "Technical 1",
+          "Score": 2.8,
+          "Recommendation": "No Hire",
+          "Outcome": "Completed",
+          "Feedback": "Missed the main edge case and did not test the solution.",
+          "Completed On": "2026-03-31"
+        }
+      }
+    ]
+  },
+  "Offers": {
+    "ok": true,
+    "records": [
+      {
+        "id": "rec0bHaqPWKwbh666",
+        "createdTime": "2026-08-27T16:40:01.000Z",
+        "fields": {
+          "Joining Bonus": 100000,
+          "Proposed Start Date": "2026-07-02",
+          "Application": [
+            "recmXb8MbeTw1s5yg"
+          ],
+          "Base CTC": 1910000,
+          "Offer ID": "OFF-00021",
+          "Status": "Pending",
+          "Offered On": "2026-05-02"
+        }
+      },
+      {
+        "id": "rec2ZqFzKtzyRhiRw",
+        "createdTime": "2026-08-27T16:40:01.000Z",
+        "fields": {
+          "Joining Bonus": 0,
+          "Proposed Start Date": "2026-07-12",
+          "Application": [
+            "recx0Lu59vy664xAT"
+          ],
+          "Base CTC": 2430000,
+          "Decision On": "2026-06-17",
+          "Offer ID": "OFF-00024",
+          "Status": "Accepted",
+          "Offered On": "2026-06-01"
+        }
+      },
+      {
+        "id": "rec4IxCFtlh2fUaYZ",
+        "createdTime": "2026-08-27T16:40:02.000Z",
+        "fields": {
+          "Joining Bonus": 0,
+          "Proposed Start Date": "2026-07-01",
+          "Application": [
+            "recGBuBnWhJkCTNIm"
+          ],
+          "Base CTC": 3920000,
+          "Decision On": "2026-05-03",
+          "Offer ID": "OFF-00033",
+          "Status": "Accepted",
+          "Offered On": "2026-04-25"
+        }
+      }
+    ]
+  },
+  "Findings": {
+    "ok": true,
+    "records": []
+  }
+}

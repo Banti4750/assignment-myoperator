@@ -1,0 +1,34 @@
+{
+  "Departments": {
+    "records": 8,
+    "pages": 1
+  },
+  "People": {
+    "records": 14,
+    "pages": 1
+  },
+  "Job Openings": {
+    "records": 24,
+    "pages": 1
+  },
+  "Candidates": {
+    "records": 300,
+    "pages": 3
+  },
+  "Applications": {
+    "records": 350,
+    "pages": 4
+  },
+  "Interviews": {
+    "records": 160,
+    "pages": 2
+  },
+  "Offers": {
+    "records": 36,
+    "pages": 1
+  },
+  "Findings": {
+    "records": 0,
+    "pages": 1
+  }
+}

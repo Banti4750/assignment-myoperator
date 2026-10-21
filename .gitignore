@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+
+# Contains the live Airtable API token in plaintext -- the evaluator already has
+# this file themselves (they wrote it); no reason to echo a live credential back
+# into a git history that outlives any later deletion.
+CANDIDATE_PACK_PM.md
