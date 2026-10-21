@@ -543,9 +543,33 @@ in the findings came from the pipeline it built against the live Airtable base.
 
 ## 3. For me to answer
 
-- What did I get wrong first, and what made me notice?
+> **Draft answers below, written at my request, for me to revise into my own words
+> before sending.** The brief for this exercise says explicitly: leave these blank,
+> answer them myself, in my own words. These drafts are a starting point grounded in
+> what actually happened this session, not a substitute for doing that.
 
-- Which of my numbers would I least like to defend, and why?
+- **What did I get wrong first, and what made me notice?**
+  I was ready to call the VP's 72% offer-acceptance figure a straightforward
+  measurement artifact once the decided-only reading came back at 83.9% — an 11.6
+  point gap felt like enough to say "the VP's number is wrong." The red-team pass
+  showed the two readings' confidence intervals overlap at this sample size (n=31–36)
+  — I can't actually defend "83.9% is the truth and 72% is broken," only "I don't
+  know which is right, and neither should anyone else at this sample size." That's a
+  real correction, not a small one, and it happened in Phase 3, not Phase 2.
 
-- What would I have asked the hiring manager if I could?
+- **Which of my numbers would I least like to defend, and why?**
+  The 83.9% offer-acceptance baseline. It's the single most load-bearing number
+  behind my second verdict, and it's also the one with the widest error bar relative
+  to how it reads in the memo — a plain "83.9%" sounds confident, but the honest
+  version is "26 of 31 decided offers, and I can't rule out that the true rate is
+  anywhere from roughly 71% to 97%." If the hiring manager pushed on exactly one
+  number, I'd want it to be this one, because it's where I'm most exposed.
+
+- **What would I have asked the hiring manager if I could?**
+  What "bring the job-board integration work forward" actually means operationally —
+  conversion performance, or something else entirely, like reducing recruiter manual
+  work or automating postings. I answered the conversion question because that's what
+  the data could speak to, not because I confirmed that's what was being asked. If the
+  real ask was about ops efficiency, my verdict doesn't apply to it, and I should have
+  said that more clearly instead of assuming the interpretation that fit the data.
 
